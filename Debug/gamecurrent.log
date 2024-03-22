@@ -1,0 +1,87 @@
+﻿  Source.cpp
+C:\coding\gamecurrent\gamecurrent\Source.cpp(57,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(57,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(65,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(65,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(73,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(73,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(81,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(81,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(89,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(89,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(97,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(97,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(105,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(105,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(113,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(113,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(121,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(121,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(129,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(129,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(137,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(137,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(145,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(145,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(153,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(153,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(161,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(161,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(169,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(169,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(177,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(177,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(185,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(185,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(193,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(193,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(215,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(215,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(222,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(222,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(230,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(230,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(260,27): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(260,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(288,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(288,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(295,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(295,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(303,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(303,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(311,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(311,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(319,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(319,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(326,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(326,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(334,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(334,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(342,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(342,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(350,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(350,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(358,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(358,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(366,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(366,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(375,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(375,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(384,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(384,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(525,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(525,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(534,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(534,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(543,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(543,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(551,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(551,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(597,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(597,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\coding\gamecurrent\gamecurrent\Source.cpp(810,6): warning C4101: 'ex1': unreferenced local variable
+C:\coding\gamecurrent\gamecurrent\Source.cpp(900,6): warning C4101: 'ex2': unreferenced local variable
+C:\coding\gamecurrent\gamecurrent\Source.cpp(990,6): warning C4101: 'ex3': unreferenced local variable
+C:\coding\gamecurrent\gamecurrent\Source.cpp(1153,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\coding\gamecurrent\gamecurrent\Source.cpp(1774,7): warning C4553: '==': result of expression not used; did you intend '='?
+  gamecurrent.vcxproj -> C:\coding\gamecurrent\Debug\gamecurrent.exe

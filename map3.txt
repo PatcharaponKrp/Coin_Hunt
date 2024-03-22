@@ -1,0 +1,25 @@
+==================================================|=================================================
+|                                                 |      DEVELOPED BY Patcharapon Kaewriporn       |
+|                                                 |                                                |
+|                                                 |             Student ID : 64010575              |
+|    |=======================================|    |                                                |
+|    |             =   =   =   =             |    |       HP           TIME          Score         |
+|    |==  ====  ==   = = = = =   ==  ====  ==|    |                                                |
+|    |===  =   ====  =   =   =  ====   =  ===|    |                                                |
+|    |==   =  ====== ========= ======  =   ==|    |                                                |
+|    |    ===                         ===    |    |                HOW  TO PLAY                    |
+|    |  =  =  =====    =====    =====  =  =  |    |   Moves - w,a,s,d                              |
+|====| ===   =     =     =     =     =   === |====|   Exit  - x                                    |
+|            =     =  =======  =     =            |   E = ENEMY  WHEN YOU WAS STRIKE BY ENEMY YOU  |
+|====| ===   =     =     =     =     =   === |====|      LOSE 1 HP ENEMY WILL SPAWN COIN EVERY 1 S |
+|    |  =  =  =====    =====    =====  =  =  |    |    ITEM                                        |
+|    |    ===                         ===    |    |   F - FREEZE ENEMY 10 s                        |
+|    |==   =  ====== ===---=== ======  =   ==|    |   A - ARMOR YOUR CAN STRIKE TO ENEMY AND WON'T |
+|    |===  =   ====  =       =  ====   =  ===|    |       LOSE YOUR HP AND ENEMY WILL DIE          |
+|    |==  ====  ==   =       =   ==  ====  ==|    |   S - YOUR SPEED WILL RAISE                    |
+|    |               =========               |    |   T - YOUR TIME WILL RAISE 30 S                |
+|    |=======================================|    |   NOTE : YOU WILL GET THE ITEMS EVERY 10 COIN  |
+|                                                 |                  HOW TO WIN                    |
+|                                                 |                                                |
+|                                                 |               COLLECT ALL COIN                 |
+====================================================================================================  
