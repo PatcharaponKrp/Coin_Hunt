@@ -5,6 +5,7 @@
 
 collect all of coin to clear the stage 
 
-<H2>Game Showcase</H2>
-<a href = "https://youtu.be/2kD7CCJmeAw"></a>
+## Game Showcase
+
+[In line link style](https://youtu.be/2kD7CCJmeAw "Go to Video")
 
